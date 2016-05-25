@@ -13,7 +13,7 @@ document.addEventListener("deviceready",function(){
 	audio.preloadSound('la', 'audio/A.mp3', function(msg){}, function(msg){ alert( 'Error: ' + msg); });
     audio.preloadSound('si', 'audio/B.mp3', function(msg){}, function(msg){ alert( 'Error: ' + msg); });
 	
-	$('.nota').bind('touchstart', function() {
+	$('.nota').on('tap', function() {
 		$(this).addClass('tocada');
 		audio.play($(this).attr('id'));
 	}).bind('touchend', function(){
