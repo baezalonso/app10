@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
  <widget xmlns ="http://wwww.w3.org/ns/widgets"
-   xmlns:gap   ="http://phonegap.com/ns/1.0"
+   xmlns:gap   ="http://phonegap.com/ns/1.10"
    id          ="com.phonegap.example10"
    versionCode ="10"
    version     ="1.0.0">
@@ -14,7 +14,7 @@
   
   <preference name="phonegap-version" value="3.1.0" />
   
-  <author href="http://build.phonegap.com" email="support@phonegap.com">
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
      Cesar arturo baez alonso
   </author>
   
