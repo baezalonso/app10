@@ -12,7 +12,7 @@
     ejemplo para utilizar plugins de audio
   </descripcion>
   
-  <preference name="phonegap-version" value="3.5.0" />
+  <preference name="phonegap-version" value="3.1.0" />
   
   <author href="http://build.phonegap.com" email="support@phonegap.com">
      Cesar arturo baez alonso
